@@ -1,0 +1,22 @@
+/* For Testing */
+/*body {
+    background-color: blue;
+}*/
+
+#number-one{
+    color: red;
+    margin: 26px;
+}
+
+#number-two{
+    font-size: 16px;
+    text-decoration-color: palevioletred;
+}
+
+.first-class{
+    color: green;
+}
+
+.second-class{
+    font-size: 24px;
+}
