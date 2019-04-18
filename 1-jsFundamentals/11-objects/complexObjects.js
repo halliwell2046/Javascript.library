@@ -130,7 +130,7 @@ let garden = {
     size: 10
 }
 
-let g = 'water';
+//let g = 'water';
 
 Object.keys(garden).forEach( key => {
     if (key == g){
